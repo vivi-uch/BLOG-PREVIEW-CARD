@@ -3,6 +3,13 @@ body{
     font-family: "Figtree", sans-serif;
     font-size: 16px;
     margin: 0;
+    padding-top: 20px;
+
+    /* center contents */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .attribution { 
@@ -14,7 +21,7 @@ body{
 }
 .container{
     background-color: hsl(0, 0%, 100%);
-    margin: 50px auto 20px;
+    /* margin: 50px auto 20px; */
     padding: 20px;
     border-radius: 4%;
     border: 1px ridge black;
@@ -22,6 +29,7 @@ body{
     border-style: outset;
     /* box-shadow:  3px 3px 5px rgba(0, 0, 0, 0.3); */
     box-shadow: 5px 5px;
+    margin-bottom: 10px;
 }
 .image{
     border-radius: 4%;
@@ -53,6 +61,7 @@ body{
 }
 #content p{
     color: hsl(0, 0%, 50%);
+    line-height: 1.5;
 }
 
 
