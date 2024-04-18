@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot (10).png)
+![](./Screenshot.png)
 
 ### Links
 - Solution URL: https://github.com/vivi-uch/BLOG-PREVIEW-CARD
